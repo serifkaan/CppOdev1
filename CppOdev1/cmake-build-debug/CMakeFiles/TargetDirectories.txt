@@ -1,0 +1,3 @@
+/home/kaan/CLionProjects/CppOdev1/cmake-build-debug/CMakeFiles/ProjectBYS2.dir
+/home/kaan/CLionProjects/CppOdev1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kaan/CLionProjects/CppOdev1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
